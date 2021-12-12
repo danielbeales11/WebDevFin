@@ -1,0 +1,50 @@
+/*Daniel Beales Last Edited: 12/11*/
+body {
+    background-image: url(../images/wallpaper.jpeg);
+    background-position:top right;
+}
+
+.worksize {
+    color: #000000;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.workheader{
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+.mynavigationlink{
+    font-size: 20px;
+}
+
+.backtotop{
+    padding-left: 20px;
+}
+
+.educationheader{
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.educationbody{
+    font-size: 20px;
+}
+
+.bedphoto{
+    padding-top: 40px;
+}
+
+.mytextcenter{
+    text-align: center;
+}
+
+.contactsize{
+    color: white;
+}
+
+.ol{
+    font-size: 25px;
+}
